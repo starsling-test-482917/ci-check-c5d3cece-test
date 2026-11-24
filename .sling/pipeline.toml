@@ -1,0 +1,3 @@
+[[queues]]
+name = "check"
+command = "echo hello from sling pipeline variant"
