@@ -1,2 +1,0 @@
-[queues.check]
-command = "echo hello from sling pipeline"
