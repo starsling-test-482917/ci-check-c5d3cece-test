@@ -1,0 +1,4 @@
+## ATTACKER-MARKER-A1 [see](https://example.invalid/x)
+[queues.check]
+command = "echo <details><summary>x</summary>hidden</details>"
+this line is not valid toml: <details><summary>x</summary>hidden</details>
